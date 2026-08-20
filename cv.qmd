@@ -12,9 +12,14 @@ Integrated assessment modeling; climate mitigation; carbon pricing; climate fina
 
 ## Education
 
-**Master of Engineering (Environmental Engineering)**, Kyoto University Graduate School, 2025–present  
-**Bachelor of Engineering (Global Engineering)**, Kyoto University, 2021–2025
-**High school diploma**, Funabashi High School, 2017–2020
+**M.Eng. in Environmental Engineering**  
+*Graduate School of Engineering, Kyoto University* | 2025–Present
+
+**B.Eng. in Global Engineering**  
+*Kyoto University* | 2021–2025
+
+**High School Diploma**  
+*Funabashi High School* | 2017–2020
 
 ## Research experience
 
@@ -42,7 +47,8 @@ See the complete [Publications](publications.qmd) page.
 
 ## Awards & funding
 
-- Award or scholarship, organization, year.
+- Student Exchange Support Program (Scholarship for Study Abroad under Inter-University Agreements), Japan Student Services Organization (JASSO), 2026.
+- ENEOS Overseas Study Support Scholarship, ENEOS, 2026
 
 ## Skills
 

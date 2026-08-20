@@ -9,13 +9,13 @@ I welcome conversations about climate-policy research, integrated assessment mod
 
 ::: {.contact-box}
 **Email**  
-[your.email@example.com](mailto:your.email@example.com)
+[umehara.yusuke.26u@st.kyoto-u.ac.jp](mailto:umehara.yusuke.26u@st.kyoto-u.ac.jp)
 
 **Affiliation**  
 Kyoto University · Kyoto, Japan
 
 **Profiles**  
-[GitHub](https://github.com/umeharayusuke) · [ORCID](https://orcid.org/0000-0000-0000-0000) · [Google Scholar](https://scholar.google.com/)
+[GitHub](https://github.com/umeharayusuke) · [ORCID](https://orcid.org/0009-0003-4667-2400) · [Google Scholar](https://scholar.google.com/)
 :::
 
 > Before publishing, replace the sample email address, `umeharayusuke`, ORCID, and Google Scholar link.

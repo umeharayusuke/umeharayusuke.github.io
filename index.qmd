@@ -6,7 +6,7 @@ title-block-style: none
 description: "Yusuke Umehara researches climate mitigation pathways using integrated assessment models."
 ---
 
-![](assets/profile.jpg){.profile-photo fig-alt="Portrait of Yusuke Umehara"}
+![](assets/profile2.jpg){.profile-photo fig-alt="Portrait of Yusuke Umehara"}
 
 # Yusuke Umehara
 

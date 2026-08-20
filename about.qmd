@@ -1,0 +1,31 @@
+---
+title: "About"
+description: "About Yusuke Umehara and his research interests."
+---
+
+## Profile
+
+I am a climate and energy policy researcher interested in how societies can reach net-zero emissions fairly and feasibly. My work uses integrated assessment modeling and scenario analysis to connect long-term climate goals with near-term policy choices.
+
+I am particularly interested in carbon pricing, climate finance, carbon capture and storage (CCS), carbon dioxide removal (CDR), and the design of decarbonization pathways for Japan and the wider world.
+
+> **Replace this draft:** Add your current program, laboratory, supervisors, degree history, and a short personal motivation.
+
+## Research approach
+
+My research combines quantitative models, policy analysis, and clear communication of uncertainty. I aim to produce work that is technically rigorous, transparent, and useful to decision-makers.
+
+## Education
+
+| Period | Degree / program | Institution |
+|---|---|---|
+| 20XX–present | Graduate program (replace) | Kyoto University |
+| 20XX–20XX | Previous degree (replace) | University name |
+
+## Skills
+
+- Integrated assessment and energy-system modeling
+- Climate policy and scenario analysis
+- R / Python / data visualization
+- Academic writing and research communication
+

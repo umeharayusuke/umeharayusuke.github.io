@@ -1,0 +1,23 @@
+---
+title: "Publications"
+description: "Publications, working papers, and presentations by Yusuke Umehara."
+---
+
+> Replace the sample entries below with your actual work. Use a DOI or publisher link whenever available.
+
+## Peer-reviewed articles
+
+1. **Umehara, Y.**, Coauthor, A. (20XX). “Article title.” *Journal Name* 00(0): 000–000. [DOI](https://doi.org/10.0000/example)
+
+## Working papers
+
+1. **Umehara, Y.** (20XX). “Working paper title.” Manuscript in preparation.
+
+## Conference presentations
+
+1. **Umehara, Y.** (20XX). “Presentation title.” Conference Name, City, Country.
+
+## Other outputs
+
+- Policy brief, dataset, model documentation, or public-facing article.
+

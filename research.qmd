@@ -1,0 +1,47 @@
+---
+title: "Research"
+description: "Research themes in climate policy, integrated assessment, carbon pricing, CCS, CDR, and decarbonization."
+---
+
+My research asks how ambitious climate mitigation can be made feasible, equitable, and robust under real-world constraints.
+
+::: {.theme-block}
+<span class="theme-number">01</span>
+
+## Climate Policy & Integrated Assessment Modeling
+
+I use integrated assessment models to examine interactions among energy systems, land use, the economy, and climate policy. My focus is not only on least-cost pathways, but also on what assumptions drive results and how scenarios can better support public decisions.
+
+**Questions:** Which technology and policy choices determine mitigation outcomes? How robust are pathways across uncertain futures?
+:::
+
+::: {.theme-block}
+<span class="theme-number">02</span>
+
+## Carbon Pricing, Equity & Climate Finance
+
+Climate policies distribute costs and benefits unevenly. This theme studies carbon-pricing design, regional and intergenerational equity, and financial mechanisms that can enable more ambitious mitigation.
+
+**Questions:** How should mitigation costs be distributed? Which transfers or financing arrangements improve both fairness and feasibility?
+:::
+
+::: {.theme-block}
+<span class="theme-number">03</span>
+
+## Carbon Capture, Storage & Carbon Removal
+
+CCS and CDR may be important for hard-to-abate emissions, but their potential is constrained by storage capacity, infrastructure, cost, governance, and public acceptance.
+
+**Questions:** What role can CCS play under storage constraints? When does reliance on CDR create unacceptable risks?
+:::
+
+::: {.theme-block}
+<span class="theme-number">04</span>
+
+## Long-term Decarbonization Pathways
+
+This theme explores transitions toward and beyond net zero, with particular attention to Japan's energy system and its relationship with global mitigation efforts.
+
+**Questions:** How can Japan achieve net zero while maintaining energy security? What changes are needed after net zero?
+:::
+

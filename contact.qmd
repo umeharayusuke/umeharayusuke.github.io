@@ -1,0 +1,22 @@
+---
+title: "Contact"
+description: "Contact Yusuke Umehara about research and collaboration."
+---
+
+## Get in touch
+
+I welcome conversations about climate-policy research, integrated assessment modeling, and potential collaboration.
+
+::: {.contact-box}
+**Email**  
+[your.email@example.com](mailto:your.email@example.com)
+
+**Affiliation**  
+Kyoto University · Kyoto, Japan
+
+**Profiles**  
+[GitHub](https://github.com/umeharayusuke) · [ORCID](https://orcid.org/0000-0000-0000-0000) · [Google Scholar](https://scholar.google.com/)
+:::
+
+> Before publishing, replace the sample email address, `umeharayusuke`, ORCID, and Google Scholar link.
+

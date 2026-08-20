@@ -1,0 +1,51 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+  resources:
+    - .nojekyll
+
+website:
+  title: "Yusuke Umehara"
+  site-url: "https://umeharayusuke.github.io"
+  description: "Climate and energy policy research using integrated assessment models."
+  favicon: assets/favicon.svg
+  navbar:
+    background: light
+    logo: assets/monogram.svg
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/umeharayusuke
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 Yusuke Umehara"
+    right: "Built with [Quarto](https://quarto.org/)"
+  search: true
+  back-to-top-navigation: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

@@ -1,0 +1,37 @@
+---
+title: "Projects"
+description: "Selected research and data projects by Yusuke Umehara."
+---
+
+::: {.project-card}
+## Integrated Assessment Modeling Project
+
+**Status:** Ongoing · **Role:** Researcher
+
+A short, accessible explanation of the problem, your methods, and the value of the project. Add one strong figure when available.
+
+**Methods:** Scenario design, model analysis, R/Python
+
+[Repository or project page →](https://github.com/umeharayusuke)
+:::
+
+::: {.project-card}
+## Carbon Storage Constraints
+
+**Status:** Draft · **Role:** Lead analyst
+
+An analysis of how geological storage assumptions affect the role of CCS and CDR in mitigation pathways.
+
+**Methods:** Integrated assessment, sensitivity analysis, data visualization
+:::
+
+::: {.project-card}
+## Japan Beyond Net Zero
+
+**Status:** Concept · **Role:** Researcher
+
+A scenario project examining technological, economic, and policy choices after net-zero emissions.
+
+**Methods:** Long-term scenarios, policy analysis
+:::
+

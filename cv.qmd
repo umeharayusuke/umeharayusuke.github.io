@@ -1,0 +1,44 @@
+---
+title: "Curriculum Vitae"
+description: "Curriculum vitae of Yusuke Umehara."
+page-layout: article
+---
+
+<div class="cv-meta">Last updated: August 2026 · Use your browser’s print function to save this page as PDF.</div>
+
+## Research interests
+
+Integrated assessment modeling; climate mitigation; carbon pricing; climate finance; carbon capture and storage; carbon dioxide removal; long-term decarbonization pathways.
+
+## Education
+
+**Degree / program**, Kyoto University, 20XX–present  
+Thesis: “Replace with title” · Supervisor: Name
+
+**Previous degree**, University name, 20XX–20XX
+
+## Research experience
+
+**Position / project**, Institution, 20XX–present
+
+- Describe your contribution and one concrete result.
+- Mention models, datasets, or methods where relevant.
+
+## Publications
+
+See the complete [Publications](publications.qmd) page.
+
+## Presentations
+
+- Presentation title, Conference, year.
+
+## Awards & funding
+
+- Award or scholarship, organization, year.
+
+## Skills
+
+- **Modeling:** Add model names
+- **Programming:** R, Python, Git
+- **Languages:** Japanese (native), English (add level)
+

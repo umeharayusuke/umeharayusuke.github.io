@@ -1,0 +1,233 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research asks how ambitious climate mitigation can be made feasible, equitable, and robust under real-world constraints."
+  },
+  {
+    "objectID": "research.html#climate-policy-integrated-assessment-modeling",
+    "href": "research.html#climate-policy-integrated-assessment-modeling",
+    "title": "Research",
+    "section": "Climate Policy & Integrated Assessment Modeling",
+    "text": "Climate Policy & Integrated Assessment Modeling\nI use integrated assessment models to examine interactions among energy systems, land use, the economy, and climate policy. My focus is not only on least-cost pathways, but also on what assumptions drive results and how scenarios can better support public decisions.\nQuestions: Which technology and policy choices determine mitigation outcomes? How robust are pathways across uncertain futures?"
+  },
+  {
+    "objectID": "research.html#carbon-pricing-equity-climate-finance",
+    "href": "research.html#carbon-pricing-equity-climate-finance",
+    "title": "Research",
+    "section": "Carbon Pricing, Equity & Climate Finance",
+    "text": "Carbon Pricing, Equity & Climate Finance\nClimate policies distribute costs and benefits unevenly. This theme studies carbon-pricing design, regional and intergenerational equity, and financial mechanisms that can enable more ambitious mitigation.\nQuestions: How should mitigation costs be distributed? Which transfers or financing arrangements improve both fairness and feasibility?"
+  },
+  {
+    "objectID": "research.html#carbon-capture-storage-carbon-removal",
+    "href": "research.html#carbon-capture-storage-carbon-removal",
+    "title": "Research",
+    "section": "Carbon Capture, Storage & Carbon Removal",
+    "text": "Carbon Capture, Storage & Carbon Removal\nCCS and CDR may be important for hard-to-abate emissions, but their potential is constrained by storage capacity, infrastructure, cost, governance, and public acceptance.\nQuestions: What role can CCS play under storage constraints? When does reliance on CDR create unacceptable risks?"
+  },
+  {
+    "objectID": "research.html#long-term-decarbonization-pathways",
+    "href": "research.html#long-term-decarbonization-pathways",
+    "title": "Research",
+    "section": "Long-term Decarbonization Pathways",
+    "text": "Long-term Decarbonization Pathways\nThis theme explores transitions toward and beyond net zero, with particular attention to Japan’s energy system and its relationship with global mitigation efforts.\nQuestions: How can Japan achieve net zero while maintaining energy security? What changes are needed after net zero?"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Status: Ongoing · Role: Researcher\nA short, accessible explanation of the problem, your methods, and the value of the project. Add one strong figure when available.\nMethods: Scenario design, model analysis, R/Python\nRepository or project page →"
+  },
+  {
+    "objectID": "projects.html#integrated-assessment-modeling-project",
+    "href": "projects.html#integrated-assessment-modeling-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Status: Ongoing · Role: Researcher\nA short, accessible explanation of the problem, your methods, and the value of the project. Add one strong figure when available.\nMethods: Scenario design, model analysis, R/Python\nRepository or project page →"
+  },
+  {
+    "objectID": "projects.html#carbon-storage-constraints",
+    "href": "projects.html#carbon-storage-constraints",
+    "title": "Projects",
+    "section": "Carbon Storage Constraints",
+    "text": "Carbon Storage Constraints\nStatus: Draft · Role: Lead analyst\nAn analysis of how geological storage assumptions affect the role of CCS and CDR in mitigation pathways.\nMethods: Integrated assessment, sensitivity analysis, data visualization"
+  },
+  {
+    "objectID": "projects.html#japan-beyond-net-zero",
+    "href": "projects.html#japan-beyond-net-zero",
+    "title": "Projects",
+    "section": "Japan Beyond Net Zero",
+    "text": "Japan Beyond Net Zero\nStatus: Concept · Role: Researcher\nA scenario project examining technological, economic, and policy choices after net-zero emissions.\nMethods: Long-term scenarios, policy analysis"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Last updated: August 2026 · Use your browser’s print function to save this page as PDF."
+  },
+  {
+    "objectID": "cv.html#research-interests",
+    "href": "cv.html#research-interests",
+    "title": "Curriculum Vitae",
+    "section": "Research interests",
+    "text": "Research interests\nIntegrated assessment modeling; climate mitigation; carbon pricing; climate finance; carbon capture and storage; carbon dioxide removal; long-term decarbonization pathways."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nDegree / program, Kyoto University, 20XX–present\nThesis: “Replace with title” · Supervisor: Name\nPrevious degree, University name, 20XX–20XX"
+  },
+  {
+    "objectID": "cv.html#research-experience",
+    "href": "cv.html#research-experience",
+    "title": "Curriculum Vitae",
+    "section": "Research experience",
+    "text": "Research experience\nPosition / project, Institution, 20XX–present\n\nDescribe your contribution and one concrete result.\nMention models, datasets, or methods where relevant."
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Curriculum Vitae",
+    "section": "Publications",
+    "text": "Publications\nSee the complete Publications page."
+  },
+  {
+    "objectID": "cv.html#presentations",
+    "href": "cv.html#presentations",
+    "title": "Curriculum Vitae",
+    "section": "Presentations",
+    "text": "Presentations\n\nPresentation title, Conference, year."
+  },
+  {
+    "objectID": "cv.html#awards-funding",
+    "href": "cv.html#awards-funding",
+    "title": "Curriculum Vitae",
+    "section": "Awards & funding",
+    "text": "Awards & funding\n\nAward or scholarship, organization, year."
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\n\nModeling: Add model names\nProgramming: R, Python, Git\nLanguages: Japanese (native), English (add level)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a climate and energy policy researcher interested in how societies can reach net-zero emissions fairly and feasibly. My work uses integrated assessment modeling and scenario analysis to connect long-term climate goals with near-term policy choices.\nI am particularly interested in carbon pricing, climate finance, carbon capture and storage (CCS), carbon dioxide removal (CDR), and the design of decarbonization pathways for Japan and the wider world.\n\nReplace this draft: Add your current program, laboratory, supervisors, degree history, and a short personal motivation."
+  },
+  {
+    "objectID": "about.html#profile",
+    "href": "about.html#profile",
+    "title": "About",
+    "section": "",
+    "text": "I am a climate and energy policy researcher interested in how societies can reach net-zero emissions fairly and feasibly. My work uses integrated assessment modeling and scenario analysis to connect long-term climate goals with near-term policy choices.\nI am particularly interested in carbon pricing, climate finance, carbon capture and storage (CCS), carbon dioxide removal (CDR), and the design of decarbonization pathways for Japan and the wider world.\n\nReplace this draft: Add your current program, laboratory, supervisors, degree history, and a short personal motivation."
+  },
+  {
+    "objectID": "about.html#research-approach",
+    "href": "about.html#research-approach",
+    "title": "About",
+    "section": "Research approach",
+    "text": "Research approach\nMy research combines quantitative models, policy analysis, and clear communication of uncertainty. I aim to produce work that is technically rigorous, transparent, and useful to decision-makers."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\n\n\nPeriod\nDegree / program\nInstitution\n\n\n\n\n20XX–present\nGraduate program (replace)\nKyoto University\n\n\n20XX–20XX\nPrevious degree (replace)\nUniversity name"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "Skills",
+    "text": "Skills\n\nIntegrated assessment and energy-system modeling\nClimate policy and scenario analysis\nR / Python / data visualization\nAcademic writing and research communication"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I welcome conversations about climate-policy research, integrated assessment modeling, and potential collaboration.\n\nEmail\nyour.email@example.com\nAffiliation\nKyoto University · Kyoto, Japan\nProfiles\nGitHub · ORCID · Google Scholar\n\n\nBefore publishing, replace the sample email address, umeharayusuke, ORCID, and Google Scholar link."
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact",
+    "section": "",
+    "text": "I welcome conversations about climate-policy research, integrated assessment modeling, and potential collaboration.\n\nEmail\nyour.email@example.com\nAffiliation\nKyoto University · Kyoto, Japan\nProfiles\nGitHub · ORCID · Google Scholar\n\n\nBefore publishing, replace the sample email address, umeharayusuke, ORCID, and Google Scholar link."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yusuke Umehara",
+    "section": "",
+    "text": "Climate & Energy Policy Researcher"
+  },
+  {
+    "objectID": "index.html#climate-energy-policy-researcher",
+    "href": "index.html#climate-energy-policy-researcher",
+    "title": "Yusuke Umehara",
+    "section": "Climate & Energy Policy Researcher",
+    "text": "Climate & Energy Policy Researcher\nI study pathways toward global climate mitigation using integrated assessment models.\n\nIntegrated Assessment Modeling\n\n\nClimate Mitigation • Carbon Pricing • CCS & CDR\n\n\nKyoto University\n\n\nResearch Publications CV\n\n:::"
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Yusuke Umehara",
+    "section": "Research",
+    "text": "Research\n\n\nCarbon Pricing & Equity\nHow should mitigation costs and opportunities be distributed across regions and generations?\nExplore this theme →\n\n\nCarbon Capture & Removal\nWhat role can CCS and carbon dioxide removal play under geological, economic, and social constraints?\nExplore this theme →\n\n\nLong-term Decarbonization\nHow can Japan and the world achieve net zero while balancing energy security and sustainable development?\nExplore this theme →"
+  },
+  {
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
+    "title": "Yusuke Umehara",
+    "section": "Current focus",
+    "text": "Current focus\nConnecting quantitative scenario analysis with policy-relevant questions about feasibility, equity, and implementation."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Replace the sample entries below with your actual work. Use a DOI or publisher link whenever available."
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-articles",
+    "href": "publications.html#peer-reviewed-articles",
+    "title": "Publications",
+    "section": "Peer-reviewed articles",
+    "text": "Peer-reviewed articles\n\nUmehara, Y., Coauthor, A. (20XX). “Article title.” Journal Name 00(0): 000–000. DOI"
+  },
+  {
+    "objectID": "publications.html#working-papers",
+    "href": "publications.html#working-papers",
+    "title": "Publications",
+    "section": "Working papers",
+    "text": "Working papers\n\nUmehara, Y. (20XX). “Working paper title.” Manuscript in preparation."
+  },
+  {
+    "objectID": "publications.html#conference-presentations",
+    "href": "publications.html#conference-presentations",
+    "title": "Publications",
+    "section": "Conference presentations",
+    "text": "Conference presentations\n\nUmehara, Y. (20XX). “Presentation title.” Conference Name, City, Country."
+  },
+  {
+    "objectID": "publications.html#other-outputs",
+    "href": "publications.html#other-outputs",
+    "title": "Publications",
+    "section": "Other outputs",
+    "text": "Other outputs\n\nPolicy brief, dataset, model documentation, or public-facing article."
+  }
+]

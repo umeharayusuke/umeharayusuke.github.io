@@ -3,21 +3,22 @@ title: "Publications"
 description: "Publications, working papers, and presentations by Yusuke Umehara."
 ---
 
-> Replace the sample entries below with your actual work. Use a DOI or publisher link whenever available.
 
 ## Peer-reviewed articles
 
-1. **Umehara, Y.**, Coauthor, A. (20XX). “Article title.” *Journal Name* 00(0): 000–000. [DOI](https://doi.org/10.0000/example)
+1. Fan L., Fujimori S., Nishiura O., Zhao S., **Umehara, Y.** (2026) "Macroeconomic impacts of climate finance design to compensate the macroeconomic cost of developing countries under a 1.5°C mitigation pathway" (*under review*) [DOI](https://doi.org/10.0000/example)
 
 ## Working papers
 
-1. **Umehara, Y.** (20XX). “Working paper title.” Manuscript in preparation.
+1. **Umehara, Y.**, Fan L., Fujimori S., Zhao S., Nishiura O., Silva D. (2026). “Potential use of carbon tax revenue in developed countries as financial support for developing countries” (*Manuscript in preparation*) [DOI](https://doi.org/10.0000/example)
 
 ## Conference presentations
 
-1. **Umehara, Y.** (20XX). “Presentation title.” Conference Name, City, Country.
+1. **Umehara, Y.**, Fan L., Fujimori S., Zhao S., Nishiura O., Silva D. (2026). “Carbon tax revenue as the potential source of supporting developing regions” 19th IAMC Annual Meeting, Athens, Greece.
+
+2. **Umehara, Y.**, Fan L., Fujimori S., Zhao S., Nishiura O., Silva D. (2026). “The potential of supporting developing countries by using carbon tax revenue” Annual Conference on Global Economic Analysis, Kyoto, Japan.
 
 ## Other outputs
 
-- Policy brief, dataset, model documentation, or public-facing article.
+
 

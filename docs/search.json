@@ -25,42 +25,28 @@
     "href": "research.html#carbon-capture-storage-carbon-removal",
     "title": "Research",
     "section": "Carbon Capture, Storage & Carbon Removal",
-    "text": "Carbon Capture, Storage & Carbon Removal\nCCS and CDR may be important for hard-to-abate emissions, but their potential is constrained by storage capacity, infrastructure, cost, governance, and public acceptance.\nQuestions: What role can CCS play under storage constraints? When does reliance on CDR create unacceptable risks?"
+    "text": "Carbon Capture, Storage & Carbon Removal\nCCS and CDR may be important for hard-to-abate emissions, but their potential is constrained by storage capacity, infrastructure, cost, governance, and public acceptance.\nQuestions: What role can international emission-trading mechanism play under storage constraints? When does reliance on CDR create unacceptable risks?"
   },
   {
-    "objectID": "research.html#long-term-decarbonization-pathways",
-    "href": "research.html#long-term-decarbonization-pathways",
+    "objectID": "research.html#long-term-decarbonization-pathways-in-japan",
+    "href": "research.html#long-term-decarbonization-pathways-in-japan",
     "title": "Research",
-    "section": "Long-term Decarbonization Pathways",
-    "text": "Long-term Decarbonization Pathways\nThis theme explores transitions toward and beyond net zero, with particular attention to Japan’s energy system and its relationship with global mitigation efforts.\nQuestions: How can Japan achieve net zero while maintaining energy security? What changes are needed after net zero?"
+    "section": "Long-term Decarbonization Pathways in Japan",
+    "text": "Long-term Decarbonization Pathways in Japan\nThis theme explores transitions toward and beyond net zero, with particular attention to Japan’s energy system and its relationship with global mitigation efforts.\nQuestions: How can Japan achieve net zero while maintaining energy security? What strategies are needed after net zero?"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Status: Ongoing · Role: Researcher\nA short, accessible explanation of the problem, your methods, and the value of the project. Add one strong figure when available.\nMethods: Scenario design, model analysis, R/Python\nRepository or project page →"
+    "text": "Status: Ongoing · Role: AIM-Hub calculation and daa submission\nA scenario project examining technological, economic, and policy choices after net-zero emissions. Details\nMethods: Long-term scenarios, policy analysis"
   },
   {
-    "objectID": "projects.html#integrated-assessment-modeling-project",
-    "href": "projects.html#integrated-assessment-modeling-project",
+    "objectID": "projects.html#japan-model-inter-comparison-project-3",
+    "href": "projects.html#japan-model-inter-comparison-project-3",
     "title": "Projects",
     "section": "",
-    "text": "Status: Ongoing · Role: Researcher\nA short, accessible explanation of the problem, your methods, and the value of the project. Add one strong figure when available.\nMethods: Scenario design, model analysis, R/Python\nRepository or project page →"
-  },
-  {
-    "objectID": "projects.html#carbon-storage-constraints",
-    "href": "projects.html#carbon-storage-constraints",
-    "title": "Projects",
-    "section": "Carbon Storage Constraints",
-    "text": "Carbon Storage Constraints\nStatus: Draft · Role: Lead analyst\nAn analysis of how geological storage assumptions affect the role of CCS and CDR in mitigation pathways.\nMethods: Integrated assessment, sensitivity analysis, data visualization"
-  },
-  {
-    "objectID": "projects.html#japan-beyond-net-zero",
-    "href": "projects.html#japan-beyond-net-zero",
-    "title": "Projects",
-    "section": "Japan Beyond Net Zero",
-    "text": "Japan Beyond Net Zero\nStatus: Concept · Role: Researcher\nA scenario project examining technological, economic, and policy choices after net-zero emissions.\nMethods: Long-term scenarios, policy analysis"
+    "text": "Status: Ongoing · Role: AIM-Hub calculation and daa submission\nA scenario project examining technological, economic, and policy choices after net-zero emissions. Details\nMethods: Long-term scenarios, policy analysis"
   },
   {
     "objectID": "cv.html",
@@ -81,14 +67,14 @@
     "href": "cv.html#education",
     "title": "Curriculum Vitae",
     "section": "Education",
-    "text": "Education\nDegree / program, Kyoto University, 2025–present\nThesis: “Replace with title” · Supervisor: Shinichiro Fujimori\nPrevious degree, Kyoto University, 2021–2025"
+    "text": "Education\nMaster of Engineering (Environmental Engineering), Kyoto University Graduate School, 2025–present\nBachelor of Engineering (Global Engineering), Kyoto University, 2021–2025 High school diploma, Funabashi High School, 2017–2020"
   },
   {
     "objectID": "cv.html#research-experience",
     "href": "cv.html#research-experience",
     "title": "Curriculum Vitae",
     "section": "Research experience",
-    "text": "Research experience\nPosition / project, Institution, 20XX–present\n\nDescribe your contribution and one concrete result.\nMention models, datasets, or methods where relevant."
+    "text": "Research experience\nResearch Assistant, Kyoto University, 2025–present\n\nContributed the Japan Model Intercomparison Project on version 3 (JMIP3) by doing the AIM-Hub Japan model run and submitting the results to the IIASA database.\nContributed the development of AIM-Hub model by adding the new sector Ammonia, and also added related variables to the IAMC template and classified them with existed variables about Hydrogen.\nContributed developing Effort-Sharing Tool, a platform enabling linkage with AIM-Hub model. The tool redistributes global emissions and required carbon dioxide removal (CDR) based on fairness principles, using outputs from AIM-Hub.\n\nInternship, National Institute for Environmental Studies (NIES), 2025.11 (two weeks)\n\nAs one of the members of AIM-Hub team, I was assigned to take a role of calculation and submission for the Japan’s long term emission target (JMIP).\n\nResearch Visit, International Institute for Applied Systems Analysis (IIASA), 2025.8 (one week)\n\nConducted the analysis of the relationship between various aerosol emissions from AIM-Hub and cooling effect calculated by MAGICC7. Its analysis results are implemented in AIM-Hub as a simple calculation."
   },
   {
     "objectID": "cv.html#publications",
@@ -102,7 +88,7 @@
     "href": "cv.html#presentations",
     "title": "Curriculum Vitae",
     "section": "Presentations",
-    "text": "Presentations\n\nPresentation title, Conference, year."
+    "text": "Presentations\nSee the complete Publications page."
   },
   {
     "objectID": "cv.html#awards-funding",
@@ -116,21 +102,21 @@
     "href": "cv.html#skills",
     "title": "Curriculum Vitae",
     "section": "Skills",
-    "text": "Skills\n\nModeling: Add model names\nProgramming: R, Python, Git\nLanguages: Japanese (native), English (add level)"
+    "text": "Skills\n\nModeling: AIM-Hub, AIM-PHI\nProgramming: GAMS, R, Python, Git\nLanguages: Japanese (native), English (Intermediate)"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am a climate and energy policy researcher interested in how societies can reach net-zero emissions fairly and feasibly. My work uses integrated assessment modeling and scenario analysis to connect long-term climate goals with near-term policy choices.\nI am particularly interested in carbon pricing, climate finance, carbon capture and storage (CCS), carbon dioxide removal (CDR), and the design of decarbonization pathways for Japan and the wider world.\n\nReplace this draft: Add your current program, laboratory, supervisors, degree history, and a short personal motivation."
+    "text": "I am a climate and energy policy researcher interested in how societies can reach net-zero emissions fairly and feasibly. My work uses integrated assessment modeling and scenario analysis to connect long-term climate goals with near-term policy choices.\nI am particularly interested in carbon pricing, climate finance, carbon capture and storage (CCS), carbon dioxide removal (CDR), and the design of decarbonization pathways for Japan and the wider world."
   },
   {
     "objectID": "about.html#profile",
     "href": "about.html#profile",
     "title": "About",
     "section": "",
-    "text": "I am a climate and energy policy researcher interested in how societies can reach net-zero emissions fairly and feasibly. My work uses integrated assessment modeling and scenario analysis to connect long-term climate goals with near-term policy choices.\nI am particularly interested in carbon pricing, climate finance, carbon capture and storage (CCS), carbon dioxide removal (CDR), and the design of decarbonization pathways for Japan and the wider world.\n\nReplace this draft: Add your current program, laboratory, supervisors, degree history, and a short personal motivation."
+    "text": "I am a climate and energy policy researcher interested in how societies can reach net-zero emissions fairly and feasibly. My work uses integrated assessment modeling and scenario analysis to connect long-term climate goals with near-term policy choices.\nI am particularly interested in carbon pricing, climate finance, carbon capture and storage (CCS), carbon dioxide removal (CDR), and the design of decarbonization pathways for Japan and the wider world."
   },
   {
     "objectID": "about.html#research-approach",
@@ -144,28 +130,28 @@
     "href": "about.html#education",
     "title": "About",
     "section": "Education",
-    "text": "Education\n\n\n\nPeriod\nDegree / program\nInstitution\n\n\n\n\n2025–present\nMaster\nKyoto University\n\n\n2021–2025\nBachelor\nKyoto University"
+    "text": "Education\n\n\n\nPeriod\nDegree / program\nInstitution\n\n\n\n\n2026.8–present\nCourse-work Exchange\nUniversity of Sydney\n\n\n2025.4–present\nMaster\nKyoto University Graduate School\n\n\n2021.4–2025.3\nBachelor\nKyoto University\n\n\n2017.4–2020.3\nHigh school\nFunabashi High School"
   },
   {
     "objectID": "about.html#skills",
     "href": "about.html#skills",
     "title": "About",
     "section": "Skills",
-    "text": "Skills\n\nIntegrated assessment and energy-system modeling\nClimate policy and scenario analysis\nR / Python / data visualization\nAcademic writing and research communication"
+    "text": "Skills\n\nIntegrated assessment modeling\nClimate policy and scenario analysis\nGAMS / R / Python / Git\nAcademic writing and research communication"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "I welcome conversations about climate-policy research, integrated assessment modeling, and potential collaboration.\n\nEmail\numehara.yusuke.26u@st.kyoto-u.ac.jp\nAffiliation\nKyoto University · Kyoto, Japan\nProfiles\nGitHub · ORCID · Google Scholar\n\n\nBefore publishing, replace the sample email address, umeharayusuke, ORCID, and Google Scholar link."
+    "text": "I welcome conversations about climate-policy research, integrated assessment modeling, and potential collaboration.\n\nEmail\numehara.yusuke.26u@st.kyoto-u.ac.jp\nAffiliation\nKyoto University · Kyoto, Japan\nProfiles\nGitHub · ORCID · Google Scholar"
   },
   {
     "objectID": "contact.html#get-in-touch",
     "href": "contact.html#get-in-touch",
     "title": "Contact",
     "section": "",
-    "text": "I welcome conversations about climate-policy research, integrated assessment modeling, and potential collaboration.\n\nEmail\numehara.yusuke.26u@st.kyoto-u.ac.jp\nAffiliation\nKyoto University · Kyoto, Japan\nProfiles\nGitHub · ORCID · Google Scholar\n\n\nBefore publishing, replace the sample email address, umeharayusuke, ORCID, and Google Scholar link."
+    "text": "I welcome conversations about climate-policy research, integrated assessment modeling, and potential collaboration.\n\nEmail\numehara.yusuke.26u@st.kyoto-u.ac.jp\nAffiliation\nKyoto University · Kyoto, Japan\nProfiles\nGitHub · ORCID · Google Scholar"
   },
   {
     "objectID": "index.html",
@@ -179,14 +165,14 @@
     "href": "index.html#climate-energy-policy-researcher",
     "title": "Yusuke Umehara",
     "section": "Climate & Energy Policy Researcher",
-    "text": "Climate & Energy Policy Researcher\nI study pathways toward global climate mitigation using integrated assessment models.\n\nIntegrated Assessment Modeling\n\n\nClimate Mitigation • Carbon Pricing • CCS & CDR\n\n\nKyoto University\n\n\nResearch Publications CV\n\n:::"
+    "text": "Climate & Energy Policy Researcher\nI study pathways toward global climate mitigation using integrated assessment models (IAMs).\n\nIntegrated Assessment Modeling\n\n\nClimate Change Mitigation • Financial support • Effort-sharing • Post-2050 scenarios in Japan\n\n\nKyoto University\n\n\nResearch Publications CV\n\n:::"
   },
   {
     "objectID": "index.html#research",
     "href": "index.html#research",
     "title": "Yusuke Umehara",
     "section": "Research",
-    "text": "Research\n\n\nCarbon Pricing & Equity\nHow should mitigation costs and opportunities be distributed across regions and generations?\nExplore this theme →\n\n\nCarbon Capture & Removal\nWhat role can CCS and carbon dioxide removal play under geological, economic, and social constraints?\nExplore this theme →\n\n\nLong-term Decarbonization\nHow can Japan and the world achieve net zero while balancing energy security and sustainable development?\nExplore this theme →"
+    "text": "Research\n\n\nCarbon Pricing & financial transfer\nHow should mitigation costs and opportunities be distributed across regions?\nExplore this theme →\n\n\nEffort-sharing & CO2 strage\nWhat is the implication of effort-sharing under social and geological constraints?\nExplore this theme →\n\n\nLong-term Decarbonization strategy in Japan\nHow can Japan achieve and keep net zero while balancing energy security and sustainable development?\nExplore this theme →"
   },
   {
     "objectID": "index.html#current-focus",
@@ -200,34 +186,34 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Replace the sample entries below with your actual work. Use a DOI or publisher link whenever available."
+    "text": "Fan L., Fujimori S., Nishiura O., Zhao S., Umehara, Y. (2026) “Macroeconomic impacts of climate finance design to compensate the macroeconomic cost of developing countries under a 1.5°C mitigation pathway” (under review) DOI"
   },
   {
     "objectID": "publications.html#peer-reviewed-articles",
     "href": "publications.html#peer-reviewed-articles",
     "title": "Publications",
-    "section": "Peer-reviewed articles",
-    "text": "Peer-reviewed articles\n\nUmehara, Y., Coauthor, A. (20XX). “Article title.” Journal Name 00(0): 000–000. DOI"
+    "section": "",
+    "text": "Fan L., Fujimori S., Nishiura O., Zhao S., Umehara, Y. (2026) “Macroeconomic impacts of climate finance design to compensate the macroeconomic cost of developing countries under a 1.5°C mitigation pathway” (under review) DOI"
   },
   {
     "objectID": "publications.html#working-papers",
     "href": "publications.html#working-papers",
     "title": "Publications",
     "section": "Working papers",
-    "text": "Working papers\n\nUmehara, Y. (20XX). “Working paper title.” Manuscript in preparation."
+    "text": "Working papers\n\nUmehara, Y., Fan L., Fujimori S., Zhao S., Nishiura O., Silva D. (2026). “Potential use of carbon tax revenue in developed countries as financial support for developing countries” (Manuscript in preparation) DOI"
   },
   {
     "objectID": "publications.html#conference-presentations",
     "href": "publications.html#conference-presentations",
     "title": "Publications",
     "section": "Conference presentations",
-    "text": "Conference presentations\n\nUmehara, Y. (20XX). “Presentation title.” Conference Name, City, Country."
+    "text": "Conference presentations\n\nUmehara, Y., Fan L., Fujimori S., Zhao S., Nishiura O., Silva D. (2026). “Carbon tax revenue as the potential source of supporting developing regions” 19th IAMC Annual Meeting, Athens, Greece.\nUmehara, Y., Fan L., Fujimori S., Zhao S., Nishiura O., Silva D. (2026). “The potential of supporting developing countries by using carbon tax revenue” Annual Conference on Global Economic Analysis, Kyoto, Japan."
   },
   {
     "objectID": "publications.html#other-outputs",
     "href": "publications.html#other-outputs",
     "title": "Publications",
     "section": "Other outputs",
-    "text": "Other outputs\n\nPolicy brief, dataset, model documentation, or public-facing article."
+    "text": "Other outputs"
   }
 ]

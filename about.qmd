@@ -9,7 +9,6 @@ I am a climate and energy policy researcher interested in how societies can reac
 
 I am particularly interested in carbon pricing, climate finance, carbon capture and storage (CCS), carbon dioxide removal (CDR), and the design of decarbonization pathways for Japan and the wider world.
 
-> **Replace this draft:** Add your current program, laboratory, supervisors, degree history, and a short personal motivation.
 
 ## Research approach
 
@@ -19,13 +18,15 @@ My research combines quantitative models, policy analysis, and clear communicati
 
 | Period | Degree / program | Institution |
 |---|---|---|
-| 2025–present | Master | Kyoto University |
-| 2021–2025 | Bachelor | Kyoto University |
+| 2026.8–present | Course-work Exchange | University of Sydney |
+| 2025.4–present | Master | Kyoto University Graduate School |
+| 2021.4–2025.3 | Bachelor | Kyoto University |
+| 2017.4–2020.3 | High school | Funabashi High School |
 
 ## Skills
 
-- Integrated assessment and energy-system modeling
+- Integrated assessment modeling
 - Climate policy and scenario analysis
-- R / Python / data visualization
+- GAMS / R / Python / Git
 - Academic writing and research communication
 

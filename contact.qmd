@@ -18,5 +18,4 @@ Kyoto University · Kyoto, Japan
 [GitHub](https://github.com/umeharayusuke) · [ORCID](https://orcid.org/0009-0003-4667-2400) · [Google Scholar](https://scholar.google.com/)
 :::
 
-> Before publishing, replace the sample email address, `umeharayusuke`, ORCID, and Google Scholar link.
 

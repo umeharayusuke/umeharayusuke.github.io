@@ -6,16 +6,16 @@ title-block-style: none
 description: "Yusuke Umehara researches climate mitigation pathways using integrated assessment models."
 ---
 
-![](assets/profile2.jpg){.profile-photo fig-alt="Portrait of Yusuke Umehara"}
+![](assets/profile3.jpg){.profile-photo fig-alt="Portrait of Yusuke Umehara"}
 
 # Yusuke Umehara
 
 ## Climate & Energy Policy Researcher
 
-I study pathways toward global climate mitigation using integrated assessment models.
+I study pathways toward global climate mitigation using integrated assessment models (IAMs).
 
 <div class="expertise">Integrated Assessment Modeling</div>
-<div class="topics">Climate Mitigation <span>•</span> Carbon Pricing <span>•</span> CCS & CDR</div>
+<div class="topics">Climate Change Mitigation <span>•</span> Financial support <span>•</span> Effort-sharing <span>•</span> Post-2050 scenarios in Japan</div>
 
 <div class="affiliation">Kyoto University</div>
 
@@ -31,25 +31,25 @@ I study pathways toward global climate mitigation using integrated assessment mo
 
 ::: {.research-grid}
 ::: {.research-card}
-### Carbon Pricing & Equity
+### Carbon Pricing & financial transfer
 
-How should mitigation costs and opportunities be distributed across regions and generations?
+How should mitigation costs and opportunities be distributed across regions?
 
 [Explore this theme →](research.qmd#carbon-pricing-equity-climate-finance)
 :::
 
 ::: {.research-card}
-### Carbon Capture & Removal
+### Effort-sharing & CO2 strage
 
-What role can CCS and carbon dioxide removal play under geological, economic, and social constraints?
+What is the implication of effort-sharing under social and geological constraints?
 
 [Explore this theme →](research.qmd#carbon-capture-storage-carbon-removal)
 :::
 
 ::: {.research-card}
-### Long-term Decarbonization
+### Long-term Decarbonization strategy in Japan
 
-How can Japan and the world achieve net zero while balancing energy security and sustainable development?
+How can Japan achieve and keep net zero while balancing energy security and sustainable development?
 
 [Explore this theme →](research.qmd#long-term-decarbonization-pathways)
 :::

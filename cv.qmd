@@ -12,17 +12,25 @@ Integrated assessment modeling; climate mitigation; carbon pricing; climate fina
 
 ## Education
 
-**Degree / program**, Kyoto University, 2025–present  
-Thesis: “Replace with title” · Supervisor: Shinichiro Fujimori
-
-**Previous degree**, Kyoto University, 2021–2025
+**Master of Engineering (Environmental Engineering)**, Kyoto University Graduate School, 2025–present  
+**Bachelor of Engineering (Global Engineering)**, Kyoto University, 2021–2025
+**High school diploma**, Funabashi High School, 2017–2020
 
 ## Research experience
 
-**Position / project**, Institution, 20XX–present
+**Research Assistant**, Kyoto University, 2025–present
 
-- Describe your contribution and one concrete result.
-- Mention models, datasets, or methods where relevant.
+- Contributed the Japan Model Intercomparison Project on version 3 (JMIP3) by doing the AIM-Hub Japan model run and submitting the results to the IIASA database.
+- Contributed the development of AIM-Hub model by adding the new sector Ammonia, and also added related variables to the IAMC template and classified them with existed variables about Hydrogen.
+- Contributed developing Effort-Sharing Tool, a platform enabling linkage with AIM-Hub model. The tool redistributes global emissions and required carbon dioxide removal (CDR) based on fairness principles, using outputs from AIM-Hub.
+
+**Internship**, National Institute for Environmental Studies (NIES), 2025.11 (two weeks)
+
+- As one of the members of AIM-Hub team, I was assigned to take a role of calculation and submission for the Japan’s long term emission target (JMIP).
+
+**Research Visit**, International Institute for Applied Systems Analysis (IIASA), 2025.8 (one week)
+
+- Conducted the analysis of the relationship between various aerosol emissions from AIM-Hub and cooling effect calculated by MAGICC7. Its analysis results are implemented in AIM-Hub as a simple calculation.
 
 ## Publications
 
@@ -30,7 +38,7 @@ See the complete [Publications](publications.qmd) page.
 
 ## Presentations
 
-- Presentation title, Conference, year.
+See the complete [Publications](publications.qmd) page.
 
 ## Awards & funding
 
@@ -38,7 +46,7 @@ See the complete [Publications](publications.qmd) page.
 
 ## Skills
 
-- **Modeling:** Add model names
-- **Programming:** R, Python, Git
-- **Languages:** Japanese (native), English (add level)
+- **Modeling:** AIM-Hub, AIM-PHI
+- **Programming:** GAMS, R, Python, Git
+- **Languages:** Japanese (native), English (Intermediate)
 

@@ -1,6 +1,5 @@
 ---
 title: "Research"
-description: "Research themes in climate policy, integrated assessment, carbon pricing, CCS, CDR, and decarbonization."
 ---
 
 My research asks how ambitious climate mitigation can be made feasible, equitable, and robust under real-world constraints.
@@ -32,16 +31,16 @@ Climate policies distribute costs and benefits unevenly. This theme studies carb
 
 CCS and CDR may be important for hard-to-abate emissions, but their potential is constrained by storage capacity, infrastructure, cost, governance, and public acceptance.
 
-**Questions:** What role can CCS play under storage constraints? When does reliance on CDR create unacceptable risks?
+**Questions:** What role can international emission-trading mechanism play under storage constraints? When does reliance on CDR create unacceptable risks?
 :::
 
 ::: {.theme-block}
 <span class="theme-number">04</span>
 
-## Long-term Decarbonization Pathways
+## Long-term Decarbonization Pathways in Japan
 
 This theme explores transitions toward and beyond net zero, with particular attention to Japan's energy system and its relationship with global mitigation efforts.
 
-**Questions:** How can Japan achieve net zero while maintaining energy security? What changes are needed after net zero?
+**Questions:** How can Japan achieve net zero while maintaining energy security? What strategies are needed after net zero?
 :::
 

@@ -18,7 +18,7 @@ I study pathways toward global climate mitigation using integrated assessment mo
 <div class="topics">Climate Change<span>•</span>Integrated Assessment Modeling<span>•</span>Energy Modeling</div>
 
 <div class="expertise">Affiliation</div>
-<div class="affiliation">Kyoto University,Japan</div>
+<div class="topics">Kyoto University, Japan</div>
 
 ::: {.hero-actions}
 [Research](research.qmd){.btn .btn-primary}

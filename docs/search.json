@@ -74,7 +74,7 @@
     "href": "cv.html#research-experience",
     "title": "Curriculum Vitae",
     "section": "Research experience",
-    "text": "Research experience\nResearch Assistant, Kyoto University, 2025–present\n\nContributed the Japan Model Intercomparison Project on version 3 (JMIP3) by doing the AIM-Hub Japan model run and submitting the results to the IIASA database.\nContributed the development of AIM-Hub model by adding the new sector Ammonia, and also added related variables to the IAMC template and classified them with existed variables about Hydrogen.\nContributed developing Effort-Sharing Tool, a platform enabling linkage with AIM-Hub model. The tool redistributes global emissions and required carbon dioxide removal (CDR) based on fairness principles, using outputs from AIM-Hub.\n\nInternship, National Institute for Environmental Studies (NIES), 2025.11 (two weeks)\n\nAs one of the members of AIM-Hub team, I was assigned to take a role of calculation and submission for the Japan’s long term emission target (JMIP).\n\nResearch Visit, International Institute for Applied Systems Analysis (IIASA), 2025.8 (one week)\n\nConducted the analysis of the relationship between various aerosol emissions from AIM-Hub and cooling effect calculated by MAGICC7. Its analysis results are implemented in AIM-Hub as a simple calculation."
+    "text": "Research experience\nResearch Assistant, Kyoto University, 2025–present\n\nMember of Japan Model Intercomparison Project (JMIP)\nAmmonia sector implementation in AIM-Hub\nEffort-Sharing Tool update and linkage with AIM-Hub\nCCS regional constraint implementation\n\nInternship, National Institute for Environmental Studies (NIES), 2025.11 (two weeks)\n\nNational model (AIM-Hub Japan) calculation\n\nResearch Visit, International Institute for Applied Systems Analysis (IIASA), 2025.8 (one week)\n\nAnalysis of climate model, MAGICC"
   },
   {
     "objectID": "cv.html#publications",
@@ -95,7 +95,7 @@
     "href": "cv.html#awards-funding",
     "title": "Curriculum Vitae",
     "section": "Awards & funding",
-    "text": "Awards & funding\n\nStudent Exchange Support Program (Scholarship for Study Abroad under Inter-University Agreements), Japan Student Services Organization (JASSO), 2026.\nENEOS Overseas Study Support Scholarship, ENEOS, 2026"
+    "text": "Awards & funding\n\nStudent Exchange Support Program, Japan Student Services Organization (JASSO), 2026.\nENEOS Overseas Study Support Scholarship, ENEOS, 2026"
   },
   {
     "objectID": "cv.html#skills",
@@ -109,35 +109,28 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am a climate and energy policy researcher interested in how societies can reach net-zero emissions fairly and feasibly. My work uses integrated assessment modeling and scenario analysis to connect long-term climate goals with near-term policy choices.\nI am particularly interested in carbon pricing, climate finance, carbon capture and storage (CCS), carbon dioxide removal (CDR), and the design of decarbonization pathways for Japan and the wider world."
+    "text": "I am a climate and energy policy researcher interested in how societies can reach net-zero emissions fairly and feasibly. My work uses integrated assessment modeling and scenario analysis to connect long-term climate goals with near-term policy choices."
   },
   {
     "objectID": "about.html#profile",
     "href": "about.html#profile",
     "title": "About",
     "section": "",
-    "text": "I am a climate and energy policy researcher interested in how societies can reach net-zero emissions fairly and feasibly. My work uses integrated assessment modeling and scenario analysis to connect long-term climate goals with near-term policy choices.\nI am particularly interested in carbon pricing, climate finance, carbon capture and storage (CCS), carbon dioxide removal (CDR), and the design of decarbonization pathways for Japan and the wider world."
-  },
-  {
-    "objectID": "about.html#research-approach",
-    "href": "about.html#research-approach",
-    "title": "About",
-    "section": "Research approach",
-    "text": "Research approach\nMy research combines quantitative models, policy analysis, and clear communication of uncertainty. I aim to produce work that is technically rigorous, transparent, and useful to decision-makers."
+    "text": "I am a climate and energy policy researcher interested in how societies can reach net-zero emissions fairly and feasibly. My work uses integrated assessment modeling and scenario analysis to connect long-term climate goals with near-term policy choices."
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About",
     "section": "Education",
-    "text": "Education\n\n\n\nPeriod\nDegree / program\nInstitution\n\n\n\n\n2026.8–present\nCourse-work Exchange\nUniversity of Sydney\n\n\n2025.4–present\nMaster\nKyoto University Graduate School\n\n\n2021.4–2025.3\nBachelor\nKyoto University\n\n\n2017.4–2020.3\nHigh school\nFunabashi High School"
+    "text": "Education\n\n\n\n\n\n\n\n\nPeriod\nDegree / program\nInstitution\n\n\n\n\n2026.8–present\nCoursework Exchange\nUniversity of Sydney\n\n\n2025.4–present\nMaster\nGraduate School of Engineering, Kyoto University\n\n\n2021.4–2025.3\nBachelor\nKyoto University\n\n\n2017.4–2020.3\nHigh School Diploma\nFunabashi High School"
   },
   {
     "objectID": "about.html#skills",
     "href": "about.html#skills",
     "title": "About",
     "section": "Skills",
-    "text": "Skills\n\nIntegrated assessment modeling\nClimate policy and scenario analysis\nGAMS / R / Python / Git\nAcademic writing and research communication"
+    "text": "Skills\n\nIntegrated assessment modeling\nClimate policy and scenario analysis\nGAMS / R / Python / Git"
   },
   {
     "objectID": "contact.html",
@@ -165,7 +158,7 @@
     "href": "index.html#climate-energy-policy-researcher",
     "title": "Yusuke Umehara",
     "section": "Climate & Energy Policy Researcher",
-    "text": "Climate & Energy Policy Researcher\nI study pathways toward global climate mitigation using integrated assessment models (IAMs).\n\nIntegrated Assessment Modeling\n\n\nClimate Change Mitigation • Financial support • Effort-sharing • Post-2050 scenarios in Japan\n\n\nKyoto University\n\n\nResearch Publications CV\n\n:::"
+    "text": "Climate & Energy Policy Researcher\nI study pathways toward global climate mitigation using integrated assessment models (IAMs).\n\nKey words\n\n\nClimate Change•Integrated Assessment Modeling•Energy Modeling\n\nKyoto University\n\n\nResearch Publications CV\n\n:::\n\nResearch\n\n\nCarbon Pricing & financial transfer\nHow should mitigation costs and opportunities be distributed across regions?\nExplore this theme →\n\n\nEffort-sharing & CO2 strage\nWhat is the implication of effort-sharing under social and geological constraints?\nExplore this theme →\n\n\nLong-term Decarbonization strategy in Japan\nHow can Japan achieve and keep net zero while balancing energy security and sustainable development?\nExplore this theme →\n\n\n\n\nCurrent focus\nConnecting quantitative scenario analysis with policy-relevant questions about feasibility, equity, and implementation."
   },
   {
     "objectID": "index.html#research",

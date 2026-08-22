@@ -14,7 +14,7 @@ description: "Yusuke Umehara researches climate mitigation pathways using integr
 
 I study pathways toward global climate mitigation using integrated assessment models (IAMs).
 
-<div class="expertise">Key words</div>
+<div class="expertise">Keywords</div>
 <div class="topics">Climate Change<span>•</span>Integrated Assessment Modeling<span>•</span>Energy Modeling</div>
 
 <div class="expertise">Affiliation</div>
